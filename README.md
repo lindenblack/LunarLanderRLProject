@@ -1,11 +1,11 @@
 # LunarLanderRLProject
-## One Small Step for Man - One Giant Leap for Reinforcement Learning
-## An Investigation of Modern Deep Reinforcement Learning Algorithms
+# One Small Step for Man - One Giant Leap for Reinforcement Learning
+# An Investigation of Modern Deep Reinforcement Learning Algorithms
 Using the Lunar Lander Open AI Gym Environment
 
 ![alt text](https://wingedsheep.com/content/images/2020/08/lunarlanderpost-2.png)
 
-##Introduction
+#Introduction
 In this project I train and compare four different RL methods using the OpenAI Gym Discrete Lunar Lander environment. 
 
 The states within the environment are:
